@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
+
+<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
 <h3 align="center">Freelance Web Developer | Crafting Professional Websites to Enhance Your Online Presence | MERN Stack & Full Stack Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaldeveloper900&label=Profile%20views&color=0e75b6&style=flat" alt="bilaldeveloper900" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilaldeveloper900" alt="bilaldeveloper900" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bilal_developer" target="blank"><img src="https://img.shields.io/twitter/follow/bilal_developer?logo=twitter&style=for-the-badge" alt="bilal_developer" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js, Express.js and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://bilal-five.vercel.app/](https://bilal-five.vercel.app/)
 
-- 📝 I regularly write content on [https://www.linkedin.com/in/muhammadbilal900/](https://www.linkedin.com/in/muhammadbilal900/)
-
 - 📫 How to reach me **bilaldeveloper900@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammadbilal900/](https://www.linkedin.com/in/muhammadbilal900/)
 
 - ⚡ Fun fact **I like to help other**
 
