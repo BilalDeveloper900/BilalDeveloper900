@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
 <h3 align="center">Freelance Web Developer | Crafting Professional Websites to Enhance Your Online Presence | MERN Stack & Full Stack Expert</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaldeveloper900&label=Profile%20views&color=0e75b6&style=flat" alt="bilaldeveloper900" /> </p>
 
 - 🌱 I’m currently learning **Node.js, Express.js and MongoDB**
