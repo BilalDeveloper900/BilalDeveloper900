@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 
-<div align="center"> <img src="react.jpg"> </div>
+<div align="center"> <img src="react.png"> </div>
 <h3 align="center">Freelance Web Developer | Crafting Professional Websites to Enhance Your Online Presence | MERN Stack & Full Stack Expert</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
