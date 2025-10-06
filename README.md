@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://bilal-five.vercel.app/](https://bilal-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://muhammadbilal.tech](https://muhammadbilal.tech/)
 
 - 📫 How to reach me **bilaldeveloper900@gmail.com**
 
