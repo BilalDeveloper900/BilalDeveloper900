@@ -112,9 +112,3 @@
       <br/>Ant Design</td>
   </tr>
 </table>
-  | <a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/Antdesign" alt="antdesign" width="56" height="56"/></a>
-  <br/>Ant Design |
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilaldeveloper900&show_icons=true&locale=en&layout=compact" alt="bilaldeveloper900" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilaldeveloper900&show_icons=true&locale=en" alt="bilaldeveloper900" /></p>
